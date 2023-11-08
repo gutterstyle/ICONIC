@@ -1,0 +1,51 @@
+{
+  "name": "iconic",
+  "displayName": "ICONIC",
+  "description": "A fork from vscode-great-icons mainly created for personnal use.",
+  "version": "1.0.0",
+  "publisher": "GutterStyle",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "scripts": {
+    "publish": "vsce publish",
+    "patch": "vsce publish patch"
+  },
+  "categories": [
+    "Other",
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "iconic",
+        "label": "ICONICs",
+        "path": "./icons.json"
+      }
+    ]
+  },
+  "icon": "images/iconic.png",
+  "galleryBanner": {
+    "color": "#e0e0e0",
+    "theme": "light"
+  },
+  "keywords": [
+    "icons",
+    "theme",
+    "icon-theme",
+    "customization"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gutterstyle/ICONIC.git"
+  },
+  "author": "GutterStyle <gutterstylegaming@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@vscode/vsce": "^2.21.0"
+  },
+  "bugs": {
+    "url": "https://github.com/gutterstyle/ICONIC/issues"
+  },
+  "homepage": "https://github.com/gutterstyle/ICONIC#readme"
+}
