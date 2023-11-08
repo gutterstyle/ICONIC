@@ -2,7 +2,7 @@
   "name": "iconic",
   "displayName": "ICONIC",
   "description": "A fork from vscode-great-icons mainly created for personnal use.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "GutterStyle",
   "engines": {
     "vscode": "^1.70.0"
