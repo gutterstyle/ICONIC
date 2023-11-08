@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><polyline fill="none" stroke="#70c4bd" stroke-width="24" stroke-miterlimit="10" points="74.5,192.1 21,130 74.5,67.9"/><polyline fill="none" stroke="#70c4bd" stroke-width="24" stroke-miterlimit="10" points="181.5,70.1 235,132.1 181.5,194.2"/><polygon fill="#70c4bd" points="119.5,202.8 92,202.8 134.5,57.2 162,57.2"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 245.7 145.6" style="enable-background:new 0 0 245.7 145.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#70C4BD;stroke-width:24;stroke-miterlimit:10;}
+	.st1{fill:#70C4BD;}
+</style>
+<polyline class="st0" points="69.3,134.9 15.8,72.8 69.3,10.7 "/>
+<polyline class="st0" points="176.3,12.9 229.8,74.9 176.3,137 "/>
+<polygon class="st1" points="114.3,145.6 86.8,145.6 129.3,0 156.8,0 "/>
+</svg>
