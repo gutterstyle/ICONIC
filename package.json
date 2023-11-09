@@ -1,7 +1,7 @@
 {
   "name": "iconic",
   "displayName": "ICONIC",
-  "description": "A fork from vscode-great-icons mainly created for personnal use.",
+  "description": "250+ Icons for VSCode",
   "version": "1.0.2",
   "publisher": "GutterStyle",
   "engines": {
