@@ -325,6 +325,7 @@
 		"view": "_fd_views",
 		"views": "_fd_views",
 		"helpers": "_fd_helpers"
+		"helper": "_fd_helpers"
 	},
 	"folderNamesExpanded": {
 		".build": "_fd_build-open",
@@ -373,6 +374,7 @@
 		"view": "_fd_views-open",
 		"views": "_fd_views-open",
 		"helpers": "_fd_helpers-open"
+		"helper": "_fd_helpers-open"
 	},
 	"fileExtensions": {
 		"ai": "_f_illustrator",
