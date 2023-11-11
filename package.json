@@ -29,7 +29,29 @@
 				"label": "ICONIC",
 				"path": "./product_icons/iconic.json"
 			}
-		]
+		],
+		"themes": [
+			{
+			  "label": "ICONIC: Palenight Theme",
+			  "uiTheme": "vs-dark",
+			  "path": "./themes/palenight.json"
+			},
+			{
+			  "label": "ICONIC: Palenight Italic",
+			  "uiTheme": "vs-dark",
+			  "path": "./themes/palenight-italic.json"
+			},
+			{
+			  "label": "ICONIC: Palenight Operator",
+			  "uiTheme": "vs-dark",
+			  "path": "./themes/palenight-operator.json"
+			},
+			{
+			  "label": "ICONIC: Palenight (Mild Contrast)",
+			  "uiTheme": "vs-dark",
+			  "path": "./themes/palenight-mild-contrast.json"
+			}
+		  ]
 	},
 	"icon": "images/iconic.png",
 	"galleryBanner": {
