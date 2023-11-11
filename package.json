@@ -1,51 +1,79 @@
 {
-  "name": "iconic",
-  "displayName": "ICONIC",
-  "description": "250+ Icons for VSCode",
-  "version": "1.0.3",
-  "publisher": "GutterStyle",
-  "engines": {
-    "vscode": "^1.70.0"
-  },
-  "scripts": {
-    "publish": "vsce publish",
-    "patch": "vsce publish patch"
-  },
-  "categories": [
-    "Other",
-    "Themes"
-  ],
-  "contributes": {
-    "iconThemes": [
-      {
-        "id": "iconic",
-        "label": "ICONIC",
-        "path": "./icons.json"
-      }
-    ]
-  },
-  "icon": "images/iconic.png",
-  "galleryBanner": {
-    "color": "#e0e0e0",
-    "theme": "light"
-  },
-  "keywords": [
-    "icons",
-    "theme",
-    "icon-theme",
-    "customization"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gutterstyle/ICONIC.git"
-  },
-  "author": "GutterStyle <gutterstylegaming@gmail.com>",
-  "license": "MIT",
-  "devDependencies": {
-    "@vscode/vsce": "^2.21.0"
-  },
-  "bugs": {
-    "url": "https://github.com/gutterstyle/ICONIC/issues"
-  },
-  "homepage": "https://github.com/gutterstyle/ICONIC#readme"
+	"name": "iconic",
+	"displayName": "ICONIC",
+	"description": "250+ Icons for VSCode",
+	"version": "1.0.3",
+	"publisher": "GutterStyle",
+	"engines": {
+		"vscode": "^1.70.0"
+	},
+	"scripts": {
+		"publish": "vsce publish",
+		"patch": "vsce publish patch"
+	},
+	"categories": [
+		"Other",
+		"Themes"
+	],
+	"contributes": {
+		"iconThemes": [
+			{
+				"id": "iconic-icons",
+				"label": "ICONIC",
+				"path": "./icons.json"
+			}
+		],
+		"productIconThemes": [
+			{
+				"id": "iconic-product-icons",
+				"label": "ICONIC",
+				"path": "./product_icons/iconic.json"
+			}
+		]
+	},
+	"icon": "images/iconic.png",
+	"galleryBanner": {
+		"color": "#e0e0e0",
+		"theme": "light"
+	},
+	"keywords": [
+		"Dark Theme",
+		"Code Tutorial",
+		"Developer's Dark Theme",
+		"theme",
+		"Coders Theme",
+		"Programmers Theme",
+		"Dark Theme lovers",
+		"color-theme",
+		"dark",
+		"icon",
+		"product",
+		"icon-theme",
+		"product-icon-theme",
+		"customization"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/gutterstyle/ICONIC.git"
+	},
+	"author": "GutterStyle <gutterstylegaming@gmail.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"@vscode/vsce": "^2.21.0"
+	},
+	"bugs": {
+		"url": "https://github.com/gutterstyle/ICONIC/issues"
+	},
+	"homepage": "https://github.com/gutterstyle/ICONIC#readme",
+	"__metadata": {
+		"id": "0b5e8028-3289-4bce-899c-de871d669d4b",
+		"publisherId": "7d50f1ab-c162-4edb-aca1-a2fd254587c2",
+		"publisherDisplayName": "GutterStyle",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": true,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1699518818947,
+		"preRelease": false
+	}
 }

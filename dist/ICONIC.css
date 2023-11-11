@@ -1,0 +1,109 @@
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+@font-face {
+	font-family: "ICONIC";
+	src: url("./ICONIC.ttf?83ffc5d7bee1f3a2f3812d1a23b36174") format("truetype");
+}
+
+.ICONIC {
+	font: normal normal normal 16px/1 ICONIC;
+	display: inline-block;
+	text-decoration: none;
+	text-rendering: auto;
+	text-align: center;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+}
+
+
+.ICONIC-files:before { content: "\2710" }
+.ICONIC-search:before { content: "\2711" }
+.ICONIC-scm:before { content: "\2712" }
+.ICONIC-debug:before { content: "\2713" }
+.ICONIC-extensions:before { content: "\2714" }
+.ICONIC-person:before { content: "\2715" }
+.ICONIC-settings:before { content: "\2716" }
+.ICONIC-new-file:before { content: "\2717" }
+.ICONIC-new-folder:before { content: "\2718" }
+.ICONIC-refresh:before { content: "\2719" }
+.ICONIC-collapse-all:before { content: "\271a" }
+.ICONIC-editor-layout:before { content: "\271b" }
+.ICONIC-save:before { content: "\271c" }
+.ICONIC-cancel:before { content: "\271d" }
+.ICONIC-split-horizontal:before { content: "\271e" }
+.ICONIC-split-vertical:before { content: "\271f" }
+.ICONIC-error:before { content: "\2720" }
+.ICONIC-compare-changes:before { content: "\2721" }
+.ICONIC-clear-all:before { content: "\2722" }
+.ICONIC-warning:before { content: "\2723" }
+.ICONIC-bell:before { content: "\2724" }
+.ICONIC-sync:before { content: "\2725" }
+.ICONIC-lightbulb:before { content: "\2726" }
+.ICONIC-filter:before { content: "\2727" }
+.ICONIC-gear:before { content: "\2728" }
+.ICONIC-play:before { content: "\2729" }
+.ICONIC-stop:before { content: "\272a" }
+.ICONIC-debug-restart:before { content: "\272b" }
+.ICONIC-debug-disconnect:before { content: "\404" }
+.ICONIC-debug-step-in:before { content: "\405" }
+.ICONIC-debug-step-out:before { content: "\406" }
+.ICONIC-debug-step-back:before { content: "\407" }
+.ICONIC-debug-step-over:before { content: "\408" }
+.ICONIC-debug-pause:before { content: "\409" }
+.ICONIC-debug-continue:before { content: "\40a" }
+.ICONIC-debug-reverse-continue:before { content: "\40b" }
+.ICONIC-trash:before { content: "\40c" }
+.ICONIC-add:before { content: "\40d" }
+.ICONIC-close-all:before { content: "\40e" }
+.ICONIC-activate-breakpoints:before { content: "\40f" }
+.ICONIC-remote-explorer:before { content: "\410" }
+.ICONIC-symbol-constructor:before { content: "\411" }
+.ICONIC-remote:before { content: "\414" }
+.ICONIC-live-share:before { content: "\415" }
+.ICONIC-github:before { content: "\416" }
+.ICONIC-fluent:before { content: "\417" }
+.ICONIC-symbol-key:before { content: "\418" }
+.ICONIC-symbol-class:before { content: "\419" }
+.ICONIC-symbol-keyword:before { content: "\41a" }
+.ICONIC-symbol-structure:before { content: "\41b" }
+.ICONIC-symbol-snippet:before { content: "\41c" }
+.ICONIC-symbol-string:before { content: "\41d" }
+.ICONIC-symbol-event:before { content: "\41e" }
+.ICONIC-symbol-namespace:before { content: "\41f" }
+.ICONIC-symbol-variable:before { content: "\420" }
+.ICONIC-symbol-operator:before { content: "\421" }
+.ICONIC-symbol-numeric:before { content: "\422" }
+.ICONIC-symbol-enum:before { content: "\423" }
+.ICONIC-symbol-property:before { content: "\424" }
+.ICONIC-symbol-constant:before { content: "\425" }
+.ICONIC-symbol-parameter:before { content: "\426" }
+.ICONIC-symbol-misc:before { content: "\427" }
+.ICONIC-symbol-interface:before { content: "\428" }
+.ICONIC-symbol-field:before { content: "\429" }
+.ICONIC-symbol-file:before { content: "\42a" }
+.ICONIC-symbol-boolean:before { content: "\42b" }
+.ICONIC-symbol-color:before { content: "\42c" }
+.ICONIC-symbol-method:before { content: "\42d" }
+.ICONIC-symbol-ruler:before { content: "\42e" }
+.ICONIC-symbol-enum-member:before { content: "\42f" }
+.ICONIC-symbol-array:before { content: "\430" }
+.ICONIC-go-to-file:before { content: "\431" }
+.ICONIC-folder:before { content: "\432" }
+.ICONIC-beaker:before { content: "\433" }
+.ICONIC-lock:before { content: "\434" }
+.ICONIC-unlock:before { content: "\435" }
+.ICONIC-terminal:before { content: "\436" }
+.ICONIC-bot:before { content: "\437" }
+.ICONIC-feedback:before { content: "\438" }
+.ICONIC-bell-dot:before { content: "\439" }
+.ICONIC-layout:before { content: "\43a" }
+.ICONIC-run:before { content: "\43b" }
+.ICONIC-sidebar-left:before { content: "\43c" }
+.ICONIC-sidebar-right:before { content: "\43d" }
+.ICONIC-panel-bottom:before { content: "\43e" }

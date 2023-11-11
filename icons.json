@@ -1,7 +1,7 @@
 {
 	"hidesExplorerArrows": false,
 	"iconDefinitions": {
-		"_file": { "iconPath": "./icons/file.png" },
+		"_file": { "iconPath": "./icons/file.svg" },
 		"_fd_default": { "iconPath": "./icons/folders/default.svg" },
 		"_fd_default-open": { "iconPath": "./icons/folders/default-open.svg" },
 		"_fd_root": { "iconPath": "./icons/folders/root.svg" },
@@ -106,7 +106,7 @@
 		"_f_json": { "iconPath": "./icons/json.svg" },
 		"_f_julia": { "iconPath": "./icons/julia.svg" },
 		"_f_karma": { "iconPath": "./icons/karma.svg" },
-		"_f_key": { "iconPath": "./icons/key.png" },
+		"_f_key": { "iconPath": "./icons/key.svg" },
 		"_f_less": { "iconPath": "./icons/less.svg" },
 		"_f_liquid": { "iconPath": "./icons/liquid.svg" },
 		"_f_markdown": { "iconPath": "./icons/markdown.svg" },
@@ -191,7 +191,7 @@
 		"_f_lua": { "iconPath": "./icons/lua.svg" },
 		"_f_server": { "iconPath": "./icons/server.png" },
 		"_f_rollup": { "iconPath": "./icons/rollup.svg" },
-		"_f_editorconfig": { "iconPath": "./icons/editorconfig.png" },
+		"_f_editorconfig": { "iconPath": "./icons/editorconfig.svg" },
 		"_f_json5": { "iconPath": "./icons/json5.svg" },
 		"_f_graphql": { "iconPath": "./icons/graphql.svg" },
 		"_f_prettier": { "iconPath": "./icons/prettier.svg" },
@@ -324,8 +324,8 @@
 		"themes": "_fd_theme",
 		"view": "_fd_views",
 		"views": "_fd_views",
+		"helper": "_fd_helpers",
 		"helpers": "_fd_helpers"
-		"helper": "_fd_helpers"
 	},
 	"folderNamesExpanded": {
 		".build": "_fd_build-open",
@@ -373,8 +373,8 @@
 		"themes": "_fd_theme-open",
 		"view": "_fd_views-open",
 		"views": "_fd_views-open",
+		"helper": "_fd_helpers-open",
 		"helpers": "_fd_helpers-open"
-		"helper": "_fd_helpers-open"
 	},
 	"fileExtensions": {
 		"ai": "_f_illustrator",
