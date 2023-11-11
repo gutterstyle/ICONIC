@@ -17,5 +17,8 @@ I can add more icons, [open a **new** issue](https://github.com/gutterstyle/ICON
 
 ## Icons source
 
-Originally forked from [vscode-great-icons](https://github.com/EmmanuelBeziat/vscode-great-icons) to make personal changes and additions.
+Originally forked from [vscode-great-icons](https://github.com/EmmanuelBeziat/vscode-great-icons) to make personal changes and additions myself.
 
+## Product Icons Source
+
+From [developer-theme-dark](https://github.com/Rajeshwaran2001/developer-theme-dark)
