@@ -32,31 +32,16 @@
 		],
 		"themes": [
 			{
-				"label": "ICONIC: Palenight Theme",
+				"label": "ICONIC",
 				"uiTheme": "vs-dark",
-				"path": "./themes/palenight.json"
-			},
-			{
-				"label": "ICONIC: Palenight Italic",
-				"uiTheme": "vs-dark",
-				"path": "./themes/palenight-italic.json"
-			},
-			{
-				"label": "ICONIC: Palenight Operator",
-				"uiTheme": "vs-dark",
-				"path": "./themes/palenight-operator.json"
-			},
-			{
-				"label": "ICONIC: Palenight (Mild Contrast)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/palenight-mild-contrast.json"
+				"path": "./themes/ICONIC.json"
 			}
 		]
 	},
 	"icon": "images/iconic.png",
 	"galleryBanner": {
 		"color": "#e0e0e0",
-		"theme": "light"
+		"theme": "dark"
 	},
 	"keywords": [
 		"Dark Theme",
