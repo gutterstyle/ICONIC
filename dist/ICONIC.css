@@ -7,7 +7,14 @@
 	font-family: "ICONIC";
 	src: url("./ICONIC.ttf?83ffc5d7bee1f3a2f3812d1a23b36174") format("truetype");
 }
-
+/*
+h1 {
+    font-weight: bold;
+	font-size: 60px;
+    margin: 24px;
+    color: #7564e8;  Add this line 
+}
+*/
 .ICONIC {
 	font: normal normal normal 16px/1 ICONIC;
 	display: inline-block;
@@ -19,8 +26,17 @@
 	user-select: none;
 	-webkit-user-select: none;
 	-ms-user-select: none;
+	background-color: #242839; /* Add this line */
 }
 
+.ICONIC:before {
+    color: #7564e8;
+    transition: color 0.3s ease;
+}
+
+.ICONIC:hover:before {
+    color: #2e76ff;
+}
 
 .ICONIC-files:before { content: "\2710" }
 .ICONIC-search:before { content: "\2711" }

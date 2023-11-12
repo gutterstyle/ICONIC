@@ -35,7 +35,7 @@
             margin: 0;
             padding: 10px 20px;
             text-align: center;
-            background-color: #f8f8f8;
+            background-color: #292d3e;
         }
 
         h1 {
@@ -47,6 +47,7 @@
             width: 100px;
             display: inline-block;
             margin: 8px;
+            
         }
 
         .icon:hover {
@@ -61,21 +62,24 @@
             display: inline-block;
             width: 100%;
             text-align: center;
-            background-color: white;
+            background-color: #242839;
             box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.06);
             border-radius: 4px;
             transition: all .3s ease-in-out;
+			
         }
 
         .icon .inner i {
             padding: 16px 0;
             font-size: 48px;
             color: #333;
-            overflow: hidden;            
+            overflow: hidden;  
+			
         }
 
         .icon .inner::before {
             overflow: hidden;
+			background-color: #242839;
         }
 
         .label {
@@ -84,8 +88,8 @@
             width: 100%;
             box-sizing: border-box;
             padding: 4px;
-            font-size: 10px;
-            color: #666;
+            font-size: 12px;
+            color: #2e76ff;
             white-space: nowrap;
             overflow: hidden;
             text-overflow: ellipsis;
@@ -99,13 +103,16 @@
             margin: 0 auto;
             max-width: 900px;
             margin-bottom: 24px;
-            border: 1px solid rgba(0,0,0,.1);
+            border: 1px solid;
             box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.06);
+			color: #7564e8; 
+    		background-color: #242839; 
+}
         }
 
         #search:focus {
             outline: none !important;
-            border-color: #18a0fb;
+            border-color: #7564e8;
         }
 
         #copier {
@@ -144,7 +151,7 @@
 </head>
 <body>
 
-    <h1>ICONIC</h1>
+   <img src="../images/iconic.png" alt="ICONIC" width="200" height="200">
 
     <input type="text" id="search" placeholder="Search for icon names">
 
