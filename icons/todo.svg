@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18"><path d="M16 16H2V2h10V0H2a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V8h-2M4.91 7.08L3.5 8.5 8 13 18 3l-1.41-1.42L8 10.17z" fill="#42a5f5" data-name="Calque 2"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 18 18" style="enable-background:new 0 0 18 18;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2E76FF;}
+</style>
+<path class="st0" d="M16,16H2V2h10V0H2C0.9,0,0,0.9,0,2v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V8h-2 M4.9,7.1L3.5,8.5L8,13L18,3
+	l-1.4-1.4L8,10.2L4.9,7.1z"/>
+</svg>

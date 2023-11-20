@@ -1,1 +1,13 @@
-<svg viewBox="0 0 256 272" xmlns="http://www.w3.org/2000/svg"><path d="m.1 45.522 125.808-44.825 129.196 44.028-20.919 166.45-108.277 59.966-106.583-59.169z" fill="#e23237"/><path d="m255.104 44.725-129.196-44.028v270.444l108.277-59.866z" fill="#b52e31"/><path d="m126.107 32.274-78.393 174.419 29.285-.498 15.739-39.347h70.325l17.233 39.845 27.99.498zm.2 55.882 26.496 55.383h-49.806z" fill="#fff"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 255 270.4" style="enable-background:new 0 0 255 270.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E23237;}
+</style>
+<g>
+	<path class="st0" d="M125.8,0L0,44.8l19.2,166.5l106.6,59.2l108.3-59.9L255,44L125.8,0z M180.2,206L163,166.2H92.6l-15.7,39.3
+		L47.6,206L126,31.6l82.2,174.9L180.2,206z"/>
+	<polygon class="st0" points="152.7,142.8 126.2,87.5 102.9,142.8 	"/>
+</g>
+</svg>
